@@ -84,7 +84,7 @@ class App(FdFrame):
         val = p_scale.iat[0]
 
         self.calcdiam.set(val)
-
+        
         return val
 
 def main(args):
